@@ -79,16 +79,6 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 ---
 
-# 📊 GitHub Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
