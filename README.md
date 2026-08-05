@@ -10,13 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar+Chirukuripati;AI+%26+Machine+Learning+Enthusiast;DSA+in+C%2B%2B+%7C+Python+ML+Stack;Exploring+DL%2C+NLP%2C+OpenCV%2C+RAG+%26+LLMs;Building+Intelligent+AI+Systems" alt="Typing SVG"/>
   </a>
 
-  <br/><br/>
-
-  <!-- Profile Badges -->
-  <img src="https://komarev.com/ghpvc/?username=nithishkumarchirukuripati21-ops&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/nithishkumarchirukuripati21-ops?style=for-the-badge&color=58A6FF"/>
-  <img src="https://img.shields.io/github/stars/nithishkumarchirukuripati21-ops?affiliations=OWNER&style=for-the-badge&color=FFD43B"/>
-
 </div>
 
 ---
@@ -39,55 +32,56 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 ---
 
-# 🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Problem Solving
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" alt="Languages"/>
-</p>
-
-### 🤖 Data Science & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-</p>
-
-### 🌐 Frameworks & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi" alt="Frameworks"/>
-</p>
-
-### 🛠️ Developer Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/><sub><b>Scikit-Learn</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/><sub><b>Matplotlib</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><sub><b>Django</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br/><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><sub><b>Jupyter</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</p>
+> ⚡ Auto-generated daily by GitHub Actions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</picture>
 
 ---
 
-# 🎯 Learning Roadmap & Future Goals
+# 🎯 What I'm Working On
 
-| Phase | Technology | Description |
-| :--- | :--- | :--- |
-| 🧩 **Foundation** | **C++ DSA & Python** | Core algorithmic problem solving & data manipulation |
-| 📊 **ML Ecosystem** | **NumPy, Pandas, Scikit-Learn** | Data preprocessing, feature engineering & model training |
-| 🌐 **Backend APIs** | **Django & FastAPI** | Building scalable web backends & AI inference endpoints |
-| 👁️ **Vision & Text** | **OpenCV & NLP** | Image processing, object detection & text embeddings |
-| 🧠 **Generative AI** | **RAG, Agentic AI & LLMs** | Knowledge base retrieval, multi-agent tools & fine-tuning |
+```text
+DSA in C++              ████████████████████░░░░   Strong
+Python ML Stack         ████████████████░░░░░░░░   Intermediate
+Django Basics           ████████░░░░░░░░░░░░░░░░   Basic
+Deep Learning           ███░░░░░░░░░░░░░░░░░░░░░   Exploring
+NLP & OpenCV            ██░░░░░░░░░░░░░░░░░░░░░░   Upcoming
+RAG & Agentic AI        █░░░░░░░░░░░░░░░░░░░░░░░   Upcoming
+LLMs & FastAPI          █░░░░░░░░░░░░░░░░░░░░░░░   Upcoming
+```
 
 ---
 
@@ -95,9 +89,8 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
