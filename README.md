@@ -24,7 +24,6 @@ Hi! I'm **Nithish Kumar Chirukuripati**. I'm genuinely passionate about **Artifi
 - ⚡ **Problem Solving**: Data Structures & Algorithms in **C++**
 - 🐍 **Python ML Stack**: NumPy, Pandas, Scikit-Learn, Matplotlib & Seaborn
 - 🌐 **Web Backend**: Basic **Django**, currently learning **FastAPI**
-- 🚀 **Exploring Next**: Deep Learning, NLP, OpenCV, RAG, Agentic AI & LLMs
 
 ---
 
@@ -73,26 +72,12 @@ Hi! I'm **Nithish Kumar Chirukuripati**. I'm genuinely passionate about **Artifi
 
 ---
 
-### 🌱 Learning Journey
+### 🎯 Current Focus & AI Aspirations
 
-- [x] **DSA in C++** — Core Data Structures & Algorithm Foundations
-- [x] **Python ML Stack** — Data Manipulation (NumPy, Pandas), Visualization (Matplotlib, Seaborn) & ML (Scikit-Learn)
-- [x] **Web Basics** — Django Framework
-- [ ] 📖 **Deep Learning** & Neural Networks
-- [ ] 👁️ **OpenCV** & Computer Vision
-- [ ] 🗣️ **NLP** (Natural Language Processing)
-- [ ] 🔍 **RAG** (Retrieval-Augmented Generation)
-- [ ] 🤖 **Agentic AI** & LLM Applications
-- [ ] ⚡ **FastAPI** for high-speed backend APIs
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+- ⚡ **Algorithmic Foundation**: Actively solving problems using **Data Structures & Algorithms in C++**.
+- 🧠 **Machine Learning**: Building data analysis & prediction models with **Python**, **NumPy**, **Pandas**, **Scikit-Learn**, **Matplotlib**, and **Seaborn**.
+- 🚀 **Next Up in AI**: Expanding into **Deep Learning**, **NLP**, **Computer Vision (OpenCV)**, **RAG**, **Agentic AI**, and **LLMs**.
+- ⚙️ **Backend & APIs**: Transitioning from **Django** to building high-performance APIs with **FastAPI**.
 
 ---
 
