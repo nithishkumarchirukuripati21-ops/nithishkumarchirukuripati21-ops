@@ -1,96 +1,113 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <a href="https://github.com/nithishkumarchirukuripati21-ops">
-    <img src="./assests/banner.svg" alt="Nithish Kumar Chirukuripati Banner" width="100%" />
-  </a>
+  <!-- Animated Banner -->
+  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG Header -->
+  <!-- Animated Typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Nithish+Kumar+Chirukuripati;AI+Enthusiast+%26+ML+Practitioner;Doing+DSA+in+C%2B%2B;Learning+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar+Chirukuripati;AI+Enthusiast+%7C+Machine+Learning;C%2B%2B+DSA+%7C+Python+Developer;Building+AI+Projects+That+Matter;Learning+LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing SVG"/>
   </a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=nithishkumarchirukuripati21-ops&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/followers/nithishkumarchirukuripati21-ops?style=for-the-badge&color=58A6FF"/>
+
+  <img src="https://img.shields.io/github/stars/nithishkumarchirukuripati21-ops?affiliations=OWNER&style=for-the-badge&color=FFD43B"/>
 
 </div>
 
 ---
 
-### 👋 About Me
+# 👨‍💻 About Me
 
-Hi! I'm **Nithish Kumar Chirukuripati**. I'm genuinely passionate about **Artificial Intelligence** and love building intelligent systems.
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 💙 **Field of Interest**: Artificial Intelligence & Machine Learning
-- ⚡ **Problem Solving**: Data Structures & Algorithms in **C++**
-- 🐍 **Python ML Stack**: NumPy, Pandas, Scikit-Learn, Matplotlib & Seaborn
-- 🌐 **Web Backend**: Basic **Django**, currently learning **FastAPI**
+### 🚀 AI Enthusiast | Machine Learning | Full Stack Developer
 
----
+I'm passionate about building intelligent applications using **Machine Learning** and **Artificial Intelligence** while strengthening my software engineering skills.
 
-### 🛠️ Tech Stack & Tools
+- 🌱 Currently learning **Deep Learning, LLMs, RAG & Agentic AI**
+- 💻 Solving **Data Structures & Algorithms in C++**
+- 🐍 Building ML applications with **Python**
+- ⚡ Exploring **FastAPI + React**
+- 🎯 Goal: Become an AI Engineer capable of building production-ready AI systems.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">💻 Languages & Core</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🤖 Machine Learning & Data</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        <br/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🌐 Web Development</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/FastAPI-(Learning)-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🛠️ Tools</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
-### 🎯 Current Focus & AI Aspirations
-
-- ⚡ **Algorithmic Foundation**: Actively solving problems using **Data Structures & Algorithms in C++**.
-- 🧠 **Machine Learning**: Building data analysis & prediction models with **Python**, **NumPy**, **Pandas**, **Scikit-Learn**, **Matplotlib**, and **Seaborn**.
-- 🚀 **Next Up in AI**: Expanding into **Deep Learning**, **NLP**, **Computer Vision (OpenCV)**, **RAG**, **Agentic AI**, and **LLMs**.
-- ⚙️ **Backend & APIs**: Transitioning from **Django** to building high-performance APIs with **FastAPI**.
-
----
-
-### 📫 Connect with Me
+# 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/nithishkumarchirukuripati21-ops" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nithishkumarchirukuripati21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,django"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏏 IPL Oracle AI | AI-powered IPL match prediction platform using ML + FastAPI + React |
+| 🏠 House Price Prediction | End-to-end Machine Learning project |
+| 🤖 Upcoming LLM Projects | RAG, Agentic AI & Generative AI |
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nithishkumarchirukuripati21-ops">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:nithishkumarchirukuripati21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
