@@ -90,7 +90,7 @@ Hi! I'm **Nithish Kumar Chirukuripati**. I'm genuinely passionate about **Artifi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
@@ -99,19 +99,13 @@ Hi! I'm **Nithish Kumar Chirukuripati**. I'm genuinely passionate about **Artifi
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/nithishkumarchirukuripati21-ops">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/nithishkumarchirukuripati21-ops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nithishkumar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nithishkumarchirukuripati21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithishkumarchirukuripati21-ops&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
