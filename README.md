@@ -32,90 +32,22 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 ---
 
-# 🛠️ Tech Stack & Ecosystem
+<!-- ================= REAL CHANGE 1: TERMINAL / CODE HERO CARD ================= -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,django,fastapi,git,github,vscode,linux&perline=8" alt="Tech Stack Badges"/>
-</p>
+# 💻 System Context
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+```python
+class Engineer(NithishKumar):
+    def __init__(self):
+        self.role = "AI/ML Engineer & SDE Aspirant"
+        self.core_stack = ["C++ (DSA)", "Python", "Scikit-Learn", "FastAPI"]
+        self.passions = ["Artificial Intelligence", "Machine Learning", "System Design"]
 
----
+    def current_mission(self):
+        return {
+            "mastering": ["Deep Learning", "NLP", "OpenCV"],
+            "building_with": ["LLMs", "RAG Pipelines", "Agentic AI"],
+            "status": "Ready to innovate 🚀"
+        }
 
-# 🚀 Current Focus & Learning Journey
-
-<div align="center">
-
-| Skill / Domain | Current Level | Focus Area |
-| :--- | :---: | :--- |
-| **Data Structures & Algorithms** | <img src="https://geps.dev/progress/85?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | Problem Solving in C++ |
-| **Python ML Stack** | <img src="https://geps.dev/progress/70?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | NumPy, Pandas, Scikit-Learn, EDA |
-| **Web Backend APIs** | <img src="https://geps.dev/progress/45?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | Django Basics → FastAPI Integration |
-| **Deep Learning & Computer Vision** | <img src="https://geps.dev/progress/20?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | Neural Networks, PyTorch, OpenCV |
-| **Generative AI & LLMs** | <img src="https://geps.dev/progress/15?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | RAG Architectures & Agentic Systems |
-
-</div>
-
----
-
-# 📊 GitHub Metrics & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumarchirukuripati21-ops&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-  </picture>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-  <a href="mailto:nithishkumarchirukuripati21@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nithishkumarchirukuripati21-ops">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="./assets/wave.svg" width="100%" alt="Footer Wave"/>
-</p>
+print(Engineer().current_mission())
