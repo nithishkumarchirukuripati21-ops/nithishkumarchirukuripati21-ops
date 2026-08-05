@@ -1,113 +1,135 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                         BANNER                            -->
+<!-- ========================================================= -->
 
-  <!-- Animated Banner -->
-  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Nithish Kumar Banner" width="100%" />
+</p>
 
-  <br/><br/>
-
-  <!-- Animated Typing -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar+Chirukuripati;AI+Enthusiast+%7C+Machine+Learning;C%2B%2B+DSA+%7C+Python+Developer;Building+AI+Projects+That+Matter;Learning+LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing SVG"/>
-  </a>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=nithishkumarchirukuripati21-ops&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-  <img src="https://img.shields.io/github/followers/nithishkumarchirukuripati21-ops?style=for-the-badge&color=58A6FF"/>
-
-  <img src="https://img.shields.io/github/stars/nithishkumarchirukuripati21-ops?affiliations=OWNER&style=for-the-badge&color=FFD43B"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Machine+Learning+Engineer;Software+Development+Engineer;Always+Learning+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hey, I'm Nithish Kumar Chirukuripati
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+I'm passionate about building intelligent software with **Artificial Intelligence**, **Machine Learning**, and **Modern Software Engineering**.
 
-### 🚀 AI Enthusiast | Machine Learning | Full Stack Developer
-
-I'm passionate about building intelligent applications using **Machine Learning** and **Artificial Intelligence** while strengthening my software engineering skills.
-
-- 🌱 Currently learning **Deep Learning, LLMs, RAG & Agentic AI**
-- 💻 Solving **Data Structures & Algorithms in C++**
-- 🐍 Building ML applications with **Python**
-- ⚡ Exploring **FastAPI + React**
-- 🎯 Goal: Become an AI Engineer capable of building production-ready AI systems.
-
-<br clear="right"/>
+Currently learning Deep Learning, LLMs, RAG, and Agentic AI while strengthening my Software Development skills.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 About Me
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,django"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</div>
+- 🤖 AI Enthusiast
+- 💻 Interested in AI, ML & Software Engineering
+- 🧠 Exploring Deep Learning, LLMs & RAG
+- 🌱 Learning React & FastAPI
+- 🎯 Goal: AI Engineer • ML Engineer • Software Development Engineer
 
 ---
 
-# 📊 GitHub Analytics
+## 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,react,fastapi,django,git,github,vscode&perline=8"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Machine Learning
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🏏 IPL Oracle AI | AI-powered IPL match prediction platform using ML + FastAPI + React |
-| 🏠 House Price Prediction | End-to-end Machine Learning project |
-| 🤖 Upcoming LLM Projects | RAG, Agentic AI & Generative AI |
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/nithishkumarchirukuripati21-ops">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+/>
 
-<a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumarchirukuripati21-ops&theme=tokyo-night&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg"
+alt="Snake Animation"
+/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 
 <a href="mailto:nithishkumarchirukuripati21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</div>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/nithishkumarchirukuripati21-ops">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="./assets/wave.svg" width="100%" alt="footer"/>
+</p>

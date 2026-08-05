@@ -1,0 +1,112 @@
+<svg width="100%" height="200" viewBox="0 0 1600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dynamic Animated Gradient 1 -->
+    <linearGradient id="waveGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C5CFF">
+        <animate attributeName="stop-color" values="#7C5CFF;#00D9FF;#40F99B;#EC4899;#7C5CFF" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#40F99B;#EC4899;#7C5CFF;#00D9FF" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#40F99B">
+        <animate attributeName="stop-color" values="#40F99B;#EC4899;#7C5CFF;#00D9FF;#40F99B" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Dynamic Animated Gradient 2 -->
+    <linearGradient id="waveGradient2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#A855F7;#34D399;#38BDF8" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#C084FC">
+        <animate attributeName="stop-color" values="#C084FC;#34D399;#38BDF8;#C084FC" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Radial Glow Background -->
+    <radialGradient id="bgGlow" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="200" fill="#0B0F19"/>
+  <rect width="1600" height="200" fill="url(#bgGlow)"/>
+
+  <!-- Subtle Cyber Grid -->
+  <g opacity="0.06">
+    <path d="M0 40H1600 M0 80H1600 M0 120H1600 M0 160H1600" stroke="#FFFFFF" stroke-width="1"/>
+    <path d="M200 0V200 M400 0V200 M600 0V200 M800 0V200 M1000 0V200 M1200 0V200 M1400 0V200" stroke="#FFFFFF" stroke-width="1"/>
+  </g>
+
+  <!-- Background Wave 3 (Deep Wave) -->
+  <path fill="url(#waveGradient2)" opacity="0.25">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="
+        M0 130 C350 80 650 180 950 130 C1250 80 1450 180 1600 130 L1600 200 L0 200 Z;
+        M0 100 C350 160 650 70 950 100 C1250 160 1450 70 1600 100 L1600 200 L0 200 Z;
+        M0 130 C350 80 650 180 950 130 C1250 80 1450 180 1600 130 L1600 200 L0 200 Z
+      "/>
+  </path>
+
+  <!-- Middle Wave 2 (Soft Glow) -->
+  <path fill="url(#waveGradient1)" opacity="0.45" filter="url(#glow)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0 110 C250 50 500 160 750 110 C1000 60 1300 160 1600 110 L1600 200 L0 200 Z;
+        M0 140 C250 170 500 70 750 130 C1000 170 1300 70 1600 130 L1600 200 L0 200 Z;
+        M0 110 C250 50 500 160 750 110 C1000 60 1300 160 1600 110 L1600 200 L0 200 Z
+      "/>
+  </path>
+
+  <!-- Foreground Wave 1 (Crisp Animated Main Wave) -->
+  <path fill="url(#waveGradient1)" opacity="0.85">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0 90 C200 40 400 140 600 90 C800 40 1000 140 1200 90 C1400 40 1600 90 1600 90 L1600 200 L0 200 Z;
+        M0 115 C200 155 400 60 600 115 C800 155 1000 60 1200 115 C1400 155 1600 115 1600 115 L1600 200 L0 200 Z;
+        M0 90 C200 40 400 140 600 90 C800 40 1000 140 1200 90 C1400 40 1600 90 1600 90 L1600 200 L0 200 Z
+      "/>
+  </path>
+
+  <!-- Animated Sparkling Constellation Particles -->
+  <circle cx="150" cy="50" r="2.5" fill="#7C5CFF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2;3.5;2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="380" cy="35" r="2" fill="#00D9FF">
+    <animate attributeName="opacity" values="0.9;0.1;0.9" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="650" cy="55" r="3" fill="#40F99B">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2.5;4;2.5" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="920" cy="40" r="2" fill="#EC4899">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1180" cy="30" r="2.5" fill="#00D9FF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1420" cy="48" r="3" fill="#7C5CFF">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1540" cy="25" r="2" fill="#40F99B">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
