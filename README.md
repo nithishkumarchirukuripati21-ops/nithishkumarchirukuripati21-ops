@@ -79,14 +79,18 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumarchirukuripati21-ops&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
 
 ---
