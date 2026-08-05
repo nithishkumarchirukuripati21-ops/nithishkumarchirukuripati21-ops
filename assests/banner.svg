@@ -1,0 +1,84 @@
+<svg fill="none" width="850" height="200" viewBox="0 0 850 200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          width: 850px;
+          height: 200px;
+          background: #0d1117;
+          border-radius: 12px;
+          border: 1px solid #30363d;
+          box-sizing: border-box;
+          padding: 30px 40px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          position: relative;
+        }
+
+        .greeting {
+          color: #58a6ff;
+          font-size: 13px;
+          font-weight: 600;
+          letter-spacing: 0.5px;
+          margin-bottom: 6px;
+        }
+
+        .title {
+          font-size: 30px;
+          font-weight: 700;
+          color: #f0f6fc;
+          margin: 0;
+          letter-spacing: -0.3px;
+        }
+
+        .subtitle {
+          color: #8b949e;
+          font-size: 14px;
+          margin-top: 8px;
+          margin-bottom: 18px;
+          font-weight: 400;
+        }
+
+        .highlight {
+          color: #79c0ff;
+          font-weight: 500;
+        }
+
+        .tags-row {
+          display: flex;
+          gap: 8px;
+          flex-wrap: wrap;
+        }
+
+        .tag {
+          font-size: 12px;
+          font-weight: 500;
+          padding: 3px 10px;
+          border-radius: 20px;
+          background: #161b22;
+          color: #c9d1d9;
+          border: 1px solid #30363d;
+        }
+
+        .tag.blue { border-color: #1f6feb; color: #58a6ff; }
+        .tag.purple { border-color: #8957e5; color: #d2a8ff; }
+        .tag.green { border-color: #238636; color: #56d364; }
+      </style>
+
+      <div class="container">
+        <div class="greeting">HI THERE 👋 I'M</div>
+        <h1 class="title">Nithish Kumar Chirukuripati</h1>
+        <p class="subtitle">
+          Passionate about <span class="highlight">Artificial Intelligence</span> • Solving DSA in <span class="highlight">C++</span> • Building with <span class="highlight">Python &amp; ML</span>
+        </p>
+        <div class="tags-row">
+          <span class="tag blue">⚡ DSA in C++</span>
+          <span class="tag purple">🤖 Machine Learning</span>
+          <span class="tag green">🌱 Learning LLMs, RAG &amp; Agentic AI</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
