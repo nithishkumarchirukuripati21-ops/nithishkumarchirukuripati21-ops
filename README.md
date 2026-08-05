@@ -51,25 +51,40 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 # 🚀 Current Focus & Learning Journey
 
-| Domain / Skill | Status | Focus Area |
-| :--- | :---: | :--- |
-| **Data Structures & Algorithms** | <img src="https://img.shields.io/badge/Proficiency-85%25-58A6FF?style=flat-square" alt="85%"/> | Problem Solving in C++ |
-| **Python ML Stack** | <img src="https://img.shields.io/badge/Proficiency-70%25-58A6FF?style=flat-square" alt="70%"/> | NumPy, Pandas, Scikit-Learn, EDA |
-| **Web Backend APIs** | <img src="https://img.shields.io/badge/Proficiency-50%25-58A6FF?style=flat-square" alt="50%"/> | Django Basics → FastAPI Integration |
-| **Deep Learning & Computer Vision** | <img src="https://img.shields.io/badge/Learning-In_Progress-FFD43B?style=flat-square" alt="In Progress"/> | Neural Networks, OpenCV |
-| **Generative AI & LLMs** | <img src="https://img.shields.io/badge/Learning-Next_Up-38D43B?style=flat-square" alt="Next Up"/> | RAG Architectures & Agentic AI |
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/01._Core_Logic-DSA_in_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/02._Data_Science-Python_ML_Stack-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/03._Backend_APIs-Django_→_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/04._Computer_Vision-Deep_Learning_%26_OpenCV-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/05._GenAI_Frontier-LLMs%2C_RAG_%26_Agentic_AI-7C5CFF?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 # 📊 GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 ---
@@ -81,7 +96,7 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </p>
 
 ---
