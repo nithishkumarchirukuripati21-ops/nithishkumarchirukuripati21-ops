@@ -51,47 +51,37 @@ I'm deeply passionate about **Artificial Intelligence and Machine Learning**, dr
 
 # 🚀 Current Focus & Learning Journey
 
-<div align="center">
-
-| Skill / Domain | Current Level | Focus Area |
+| Domain / Skill | Status | Focus Area |
 | :--- | :---: | :--- |
-| **Data Structures & Algorithms** | <img src="https://geps.dev/progress/85?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | Problem Solving in C++ |
-| **Python ML Stack** | <img src="https://geps.dev/progress/70?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | NumPy, Pandas, Scikit-Learn, EDA |
-| **Web Backend APIs** | <img src="https://geps.dev/progress/45?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | Django Basics → FastAPI Integration |
-| **Deep Learning & Computer Vision** | <img src="https://geps.dev/progress/20?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | Neural Networks, PyTorch, OpenCV |
-| **Generative AI & LLMs** | <img src="https://geps.dev/progress/15?dangerColor=58A6FF&warningColor=58A6FF&successColor=58A6FF"/> | RAG Architectures & Agentic Systems |
-
-</div>
+| **Data Structures & Algorithms** | <img src="https://img.shields.io/badge/Proficiency-85%25-58A6FF?style=flat-square" alt="85%"/> | Problem Solving in C++ |
+| **Python ML Stack** | <img src="https://img.shields.io/badge/Proficiency-70%25-58A6FF?style=flat-square" alt="70%"/> | NumPy, Pandas, Scikit-Learn, EDA |
+| **Web Backend APIs** | <img src="https://img.shields.io/badge/Proficiency-50%25-58A6FF?style=flat-square" alt="50%"/> | Django Basics → FastAPI Integration |
+| **Deep Learning & Computer Vision** | <img src="https://img.shields.io/badge/Learning-In_Progress-FFD43B?style=flat-square" alt="In Progress"/> | Neural Networks, OpenCV |
+| **Generative AI & LLMs** | <img src="https://img.shields.io/badge/Learning-Next_Up-38D43B?style=flat-square" alt="Next Up"/> | RAG Architectures & Agentic AI |
 
 ---
 
 # 📊 GitHub Metrics & Activity
 
-<div align="center">
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarchirukuripati21-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarchirukuripati21-ops&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumarchirukuripati21-ops&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarchirukuripati21-ops&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumarchirukuripati21-ops&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nithishkumarchirukuripati21-ops/nithishkumarchirukuripati21-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
 ---
