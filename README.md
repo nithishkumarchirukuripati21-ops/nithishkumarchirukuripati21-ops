@@ -1,11 +1,10 @@
 <div align="center">
 
-  <!-- Header Banner -->
+ 
   <img src="./assets/banner.svg" width="100%" alt="Nithish Kumar Chirukuripati Banner"/>
 
   <br/><br/>
 
-  <!-- Dynamic Animated Typing -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar+Chirukuripati;AI+%26+Machine+Learning+Enthusiast;DSA+in+C%2B%2B+%7C+Python+ML+Stack;Exploring+DL%2C+NLP%2C+OpenCV%2C+RAG+%26+LLMs;Building+Intelligent+AI+Systems" alt="Typing SVG"/>
   </a>
